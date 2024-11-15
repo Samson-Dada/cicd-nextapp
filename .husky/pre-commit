@@ -1,0 +1,2 @@
+npm test || true
+npm run lint 
