@@ -1,7 +1,8 @@
 name: CI workflow test
 on:
   push:
-    branches: -main
+    branches:
+      - main
 
 jobs:
   run-linter-and-tests:
